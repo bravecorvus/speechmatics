@@ -1,6 +1,6 @@
 # Speechmatics API Test
 
-## Requirements (You can just run `[./speechmatics](./speechmatics)` if you are using Mac)
+## Requirements (You can just run [./speechmatics](./speechmatics) if you are using Mac)
 ### Set up go working environment
 
 > `bash` on Mac
