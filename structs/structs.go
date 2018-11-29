@@ -10,6 +10,11 @@ type Initial struct {
 	ID        int `json:"id"`
 }
 
+type CheckStatus struct {
+	Code  int    `json:"code"`
+	Error string `json:"error"`
+}
+
 type Transcript struct {
 	Job      `json:"job"`
 	Speakers []Speaker `json:"speakers"`
